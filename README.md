@@ -1,2 +1,2 @@
-# example-repository
+# my-first-repository
 Vezbi za repository!!!
